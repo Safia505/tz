@@ -96,15 +96,14 @@ print """
 \033[1;91m╏┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉╏\033[1;93m✫
 \033[1;91m╏┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉╏\033[1;93m✫
 \033[1;95m                                  •BlackTiger
-os.system("clear")
-print  """
+
 jalan("\033[1;93mTHE POWER OF PAK CYBER")
 jalan("\033[1;93mHACK THE WORD")
 jalan("\033[1;93mTEACH ALL PAKISTANIS")
 jalan("\033[1;93mTHIS IS MY MISSION")
 jalan("\033[1;93mWE ARE POOR")
 jalan("\033[1;93mBUT WE ARE TELENTED")
-jalan("\033[1;93mPAKISTAN ZINDABAD")
+jalan("\033[1;93mPAKISTAN ZINDABAD") """
 		                       
 CorrectUsername = "rana"
 CorrectPassword = "rana"
